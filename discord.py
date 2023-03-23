@@ -28,4 +28,4 @@ async def level(ctx, *, query):
         except Exception as e:
             await ctx.send(f'Ocurrió un error: {e}')
 
-client.run('DISCORD_TOKEN')
+client.run('NjI3NTAxMjcwNzMwODAxMTU2.GvuaDS.h4ofWUHMX5Wag6GZMWMDwPW_VungXHKqV02PzU')
